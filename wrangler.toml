@@ -1,0 +1,7 @@
+name = "jobbiq-server"
+compatibility_date = "2023-12-01"
+
+[vars]
+REALM_APP_ID="application-0-ydpbq"
+REALM_API_KEY="mWj7jpsTQltZo1d7dXx3w71tZ9g9k3eOqrk3ka7r3GCqS1KT80XBA7dFev6IBZMx"
+CRYPTO_KEY="4YpwabNTFoIs3HoyeG6+eTkzMRwzTVVba8V5IGuVVN+1UWgcnOGJd7+AWRXZkdtJ"
