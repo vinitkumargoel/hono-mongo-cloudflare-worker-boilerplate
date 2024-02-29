@@ -5,8 +5,8 @@
   },
   "dependencies": {
     "hono": "^4.0.8",
-    "hono-mongodb-atlas": "^0.0.5",
-    "mongo-http": "^0.0.20"
+    "mongo-http": "^0.0.20",
+    "realm-web": "^2.0.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240208.0",

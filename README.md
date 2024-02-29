@@ -1,4 +1,4 @@
-#Jobbiq HONO
+## hono-mongo-cloudflare-worker-boilerplate
 
 ```
 npm install
